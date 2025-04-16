@@ -1,46 +1,32 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nicolas Dartayeta's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nicolas Dartayeta
+Advanced Systems Engineering Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nicodarta1305@gmail.com">nicodarta1305@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Finishing my 5-year undergraduate degree in Systems Engineering
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Nothing for the moment
 
+### Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, (Deep) Reinforcement Learning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2021- Aug 2025`
+__Systems Engineering, Universidad Nacional del Centro de la Provincia de Buenos Aires__
 
 ## Awards
 
@@ -86,6 +72,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
 
 
